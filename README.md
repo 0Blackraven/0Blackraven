@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-![Joydeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Blackraven&show_icons=true&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Blackraven&layout=compact&theme=tokyonight)
 
