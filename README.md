@@ -2,18 +2,9 @@
 
 ## 📊 GitHub Stats
 
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Blackraven&layout=compact&theme=tokyonight)
 
-## 🌱 Currently Exploring
 
-- Systems programming with **Rust**
-- **Language runtimes & interpreters**
-- **Distributed systems**
-- Real-time backend architectures
-
----
 
 ## 🌐 Connect With Me
 
